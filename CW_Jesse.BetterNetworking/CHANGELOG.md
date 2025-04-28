@@ -1,3 +1,5 @@
+### 2.3.4
+- Fixes a plugin crash when loading
 ### 2.3.3
 - compatibility with Valheim 0.220.5
 ### 2.3.2

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CW_Jesse.BetterNetworking_Benchmarks", "CW_Jesse.BetterNetworking_Benchmarks\CW_Jesse.BetterNetworking_Benchmarks.csproj", "{82058F8C-914D-4928-9BD2-27F883028207}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoA.BetterNetworking", "CW_Jesse.BetterNetworking\CoA.BetterNetworking.csproj", "{264AF7BF-C0ED-424B-8348-AD06E30E1C7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CW_Jesse.BetterNetworking", "CW_Jesse.BetterNetworking\CW_Jesse.BetterNetworking.csproj", "{264AF7BF-C0ED-424B-8348-AD06E30E1C7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

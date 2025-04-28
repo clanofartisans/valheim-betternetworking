@@ -1,6 +1,6 @@
 {
   "name": "BetterNetworking_Valheim",
-  "version_number": "2.3.3",
+  "version_number": "2.3.4",
   "website_url": "https://github.com/clanofartisans/valheim-betternetworking",
   "description": "Improve multiplayer performance using compression, queue size, send rate, and other features.",
   "dependencies": [

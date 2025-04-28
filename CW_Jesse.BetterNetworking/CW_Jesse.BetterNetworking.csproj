@@ -4,14 +4,12 @@
     <TargetFramework>net472</TargetFramework>
     <Title>Better Networking</Title>
     <Copyright>CW_Jesse 2023</Copyright>
-    <Company>Clan_of_Artisans</Company>
+    <Company>CW_Jesse</Company>
     <RepositoryUrl>https://github.com/clanofartisans/valheim-betternetworking</RepositoryUrl>
-    <Version>2.3.3</Version>
-    <AssemblyVersion>2.3.3</AssemblyVersion>
-    <FileVersion>2.3.3</FileVersion>
-    <PackageProjectUrl>https://thunderstore.io/c/valheim/p/Clan_of_Artisans/BetterNetworking_Valheim/</PackageProjectUrl>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageIcon>icon.png</PackageIcon>
+    <Version>2.3.4</Version>
+    <AssemblyVersion>2.3.4</AssemblyVersion>
+    <FileVersion>2.3.4</FileVersion>
+    <PackageProjectUrl>https://valheim.thunderstore.io/package/CW_Jesse/BetterNetworking_Valheim/</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -81,16 +79,12 @@
     </None>
     <None Update="icon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
     </None>
     <None Update="manifest.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="README.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
 

@@ -13,17 +13,14 @@ using Steamworks;
 
 namespace CW_Jesse.BetterNetworking {
 
-    [BepInPlugin("CoA.BetterNetworking", "Better Networking", "2.3.3")]
+    [BepInPlugin("CW_Jesse.BetterNetworking", "Better Networking", "2.3.4")]
     [BepInIncompatibility("org.bepinex.plugins.network")]
     [BepInIncompatibility("be.sebastienvercammen.valheim.netcompression")]
     [BepInIncompatibility("com.github.dalayeth.Networkfix")]
     [BepInIncompatibility("Steel.ValheimMod")]
-    [BepInIncompatibility("CW_Jesse.BetterNetworking")]
-    [BepInIncompatibility("Searica.Valheim.NetworkTweaks")]
-
     public class BetterNetworking : BaseUnityPlugin {
 
-        private readonly Harmony harmony = new Harmony("CoA.BetterNetworking");
+        private readonly Harmony harmony = new Harmony("CW_Jesse.BetterNetworking");
 
         public static ConfigEntry<BN_Logger.Options_Logger_LogLevel> configLogMessages;
         public static ConfigEntry<BN_Patch_ForceCrossplay.Options_ForceCrossplay> configForceCrossplay;
